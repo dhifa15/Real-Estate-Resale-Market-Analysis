@@ -1,4 +1,4 @@
-[![]()
+[View Dashboard](https://public.tableau.com/app/profile/hazna.ardeva/viz/DashboardMIlestone2/SingaporeApartmentResaleMarketAnalysisDashboard?publish=yes)
 ---
 # Real Estate Resale Market Analysis
 
