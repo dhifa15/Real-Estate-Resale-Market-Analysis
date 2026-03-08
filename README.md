@@ -1,9 +1,7 @@
 [View Dashboard](https://public.tableau.com/app/profile/hazna.ardeva/viz/DashboardMIlestone2/SingaporeApartmentResaleMarketAnalysisDashboard?publish=yes)
 ---
-
-
----
 # Real Estate Resale Market Analysis
+![Main Dashboard](dashboard.png)
 
 📌 Project Background
 
@@ -27,4 +25,10 @@ This project analyzes 80,374 residential resale transactions (2017–2020) to un
 - Seaborn
 - Tableau (Interactive Dashboard)
 
-📊 Dashboard
+---
+
+**Hazna Dhifa Putri Ardeva**  
+Data Analyst Enthusiast | Hactiv8 Bootcamp Student  
+🔗 [LinkedIn](https://linkedin.com/in/haznadhifa) | 📧 [Email](mailto:haznadifa123@gmail.com)
+
+Thanks for visiting! Feel free to star ⭐ the repo if you find it useful
